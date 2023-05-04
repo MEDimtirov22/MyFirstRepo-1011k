@@ -1,3 +1,3 @@
 # This is my repo
 ## This is some description
-# Nasheto ime: Martin Dimitrov
+# Nashetite imena: Martin Dimitrov, Martin Shavov, Kaloyan Iliev
